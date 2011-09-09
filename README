@@ -1,0 +1,1 @@
+IEEE 738-2006 (IEEE Standard for Calculating the Current-Temperature of Bare Overhead Conductors) includes a QuickBASIC implementation, which is slightly awkward to use. I've implemented the equations for MATLAB in IEEE738TemperatureRise.m, which requires the helper file getI.m.
